@@ -4,11 +4,6 @@ Are you a nerdy band kid? Do you enjoy shooting games? Well we have the game for
 
 ### How to play?
 
-To play, 
-### Jekyll Themes
+To play, load the game. Press tab on the start screen and the game will start. To move, use the arrow keys. To shoot press the space bar. There are 4 different bands you are fighting. In order of their appearance in the game, they are Riverside, Mauldin, Nation Ford and Wando. It takes 2 hits to kill a Riveride, 10 to kill a Mauldin, 20 to kill a Nation Ford and 40 to kill a Wando. You get 1 pont for Riverside, 2 for Mauldin, 5 for Nation Ford and 10 for Wando. When the game ends, it will tell you your results. Press R to play again.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Wesley-F/mann_band_shooter_game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Screenshots
